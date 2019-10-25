@@ -1,8 +1,0 @@
-1. npm install -g parcel-bundler
-2. parcel index.html
-3. go to npmjs.com to find faker
-4. npm install faker --save
-
-5. import faker from 'faker'; we can see '...', mouseover, we will popup to install other packet
-
-6. npm install --save @types/googlemaps
